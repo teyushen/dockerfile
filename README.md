@@ -10,7 +10,7 @@
 How to use
 
 ```
-$ docker run -it --name sqlcli sldennis/sqlcli ./bin/sql
+$ docker run -it --name sqlcli sldennis/sqlcli sql
 SQLcl: Release 17.3.0 Production on Fri Nov 03 10:17:30 2017
 
 Copyright (c) 1982, 2017, Oracle.  All rights reserved.
